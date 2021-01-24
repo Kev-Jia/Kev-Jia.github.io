@@ -7,5 +7,9 @@ h1
 {
     color: #f0f0f0;
     align-content: center;
-    font: Verdana, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: medium;
+    font-family: Verdana, sans-serif;
 }
