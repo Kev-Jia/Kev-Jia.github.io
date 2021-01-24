@@ -6,4 +6,6 @@ body
 h1
 {
     color: #f0f0f0;
+    align-content: center;
+    font: normal, Verdana, normal, normal, sans-serif;
 }
