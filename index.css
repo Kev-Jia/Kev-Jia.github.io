@@ -71,7 +71,7 @@ body
 
 .img1 img
 {
-    position: fixed;
+    position: absolute;
     top: 0px;
     right: 0px;
     width: 72px;
